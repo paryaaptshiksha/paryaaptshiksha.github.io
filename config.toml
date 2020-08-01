@@ -1,4 +1,4 @@
-baseURL = "http://paryaaptshiksha.github.io/"
+baseURL = "https://paryaaptshiksha.github.io/"
 title = "paryaaptshiksha"
 theme = "educenter-hugo"
 # post pagination
